@@ -13,11 +13,11 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/trantuanhiep07">
-			<i class="lab la-facebook"></i></a>
+			<img src="https://img.icons8.com/doodle/1x/facebook-squared--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/hiep0702">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/01.tth_/?fbclid=IwAR2OuDiUxt6gpPXWHKYXA6uAyrYdcmiGSwtFy7qmxbCmpzWd7ROvga6_m-M">
-			<i class="lab la-instagram"></i></a>
+			<img src="https://img.icons8.com/doodle/1x/instagram-squared--v2.png" ></a>
 	
 </p>
 
