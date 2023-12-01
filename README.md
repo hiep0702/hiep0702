@@ -1,7 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=miiajj&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=hiep0702&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xvTlWFkGDF0Q/giphy.gif" width="280"/>
+  <img src="" width="280"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Hie</h1>
@@ -13,11 +13,11 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/trantuanhiep07">
-			<img src="https://img.icons8.com/doodle/1x/facebook-squared--v2.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/hiep0702">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/01.tth_/?fbclid=IwAR2OuDiUxt6gpPXWHKYXA6uAyrYdcmiGSwtFy7qmxbCmpzWd7ROvga6_m-M">
-			<img src="https://img.icons8.com/doodle/1x/instagram-squared--v2.png" ></a>
+			<img src="https://img.icons8.com/doodle/40/000000/instagram--v1.png" ></a>
 	
 </p>
 
