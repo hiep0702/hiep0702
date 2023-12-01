@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Hie 💋💋💋 
 
 <!--
 **hiep0702/hiep0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
