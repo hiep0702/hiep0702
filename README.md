@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=hiep0702&style=flat-square&color=blue" alt=""/>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="" width="280"/>
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Hie</h1>
 <h3 align="center">Developer from Vietnam.</h3>
