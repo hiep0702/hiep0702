@@ -27,8 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-###  My Stats :fire: :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiep0702&layout=compact&bg_color=000000&title_color=dd6387&icon_color=79d8f8&text_color=ffffff)](https://github.com/hiep0702)
 
-[![Miiajj's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiep0702&show_icons=true&bg_color=000000&title_color=dd6387&icon_color=79d8f8&text_color=ffffff)](https://github.com/hiep0702)
 
